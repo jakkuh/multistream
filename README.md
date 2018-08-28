@@ -8,7 +8,7 @@ Used to allow the LinusTechTips team to stream to both YouTube and Twitch at the
 (ps. it's not really designed for randoms to be able to setup, but if you somewhat know your way around Linux you should be able to, no issue.)
 
 
-
+Stats page: http://10.20.0.70:8080/stats
 
 Tutorial
 -------------------
