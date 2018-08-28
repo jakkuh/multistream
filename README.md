@@ -15,8 +15,6 @@ Tutorial
 
 Designed for ubunutu 18.04
 
-Note:
-
 This assumes you are working in the /home/linus directory. If otherwise you will need to change the config in step 9 to reflect that, otherwise the stats page will not work. This also assumes you are using a non-root user named "linus". Please use a non-root user. :P
 
 pre-setup: Set your network card's IP - we are using 10.20.0.70 as the static IP for the streaming server. Note, there are a LOT of places that the IP will need to be changed inside nginx.conf to get this working with a different IP address.
