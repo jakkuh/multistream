@@ -61,7 +61,7 @@ pre-setup: Set your network card's IP - we are using 10.20.0.70 as the static IP
 	1. sudo bash -c "curl https://raw.githubusercontent.com/tivyhosting/multistream/master/nginx.conf > /usr/local/nginx/conf/nginx.conf" 
 
 
-1. **Set your desired stream keys in the nginx.conf config file (the defaults are empty). **
+1. **Set your desired stream keys in the nginx.conf config file (the defaults are empty)**
 	1. Replace "TWITCH_STREAM_KEY" with your twitch stream key, and "YOUTUBE_STREAM_KEY" with your youtube stream key.
 		1. sudo nano /usr/local/nginx/conf/nginx.conf
 	
