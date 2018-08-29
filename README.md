@@ -79,4 +79,4 @@ pre-setup: Set your network card's IP - we are using 10.20.0.70 as the static IP
 1.  **You should now be able to stream to the NGINX server. We have 3 distinct ingest servers for the 3 different intended streaming setups.**
 	1. Streaming to both YouTube and Twitch: `rtmp://10.20.0.70:1935/transcode-yt-twitch`
 	1. Streaming to just YouTube: `rtmp://10.20.0.70:1935/transcode-yt`
-	1. (Streaming to both YouTube and Floatplane: `rtmp://10.20.0.70:1935/transcode-yt-fp` (NOT YET WORKING))
+	1. (Streaming to both YouTube and Floatplane: `rtmp://10.20.0.70:1935/transcode-yt-fp` (***NOT YET WORKING***))
