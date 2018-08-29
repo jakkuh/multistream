@@ -5,12 +5,16 @@ Multistream
 
 Used to allow the LinusTechTips team to stream to both YouTube and Twitch at the same time :D
 
-(ps. it's not really designed for randoms to be able to setup, but if you somewhat know your way around Linux you should be able to, no issue.)
+
+Important Notes:
+1. It's not really designed for randoms to be able to setup, but if you somewhat know your way around Linux you should be able to, no issue.
+1. Stats page: http://10.20.0.70:8080/stats
+1. Recording directory (on transcode server): /mnt/recording
+1. If the ingest FPS is different than the output (which defaults to 30 fps), it can cause dropped frames on the streaming rig
 
 
-Stats page: http://10.20.0.70:8080/stats
 
-Recording directory (on transcode server): /mnt/recording
+
 
 Tutorial
 -------------------
