@@ -1,7 +1,7 @@
 Multistream
 -----------------
 
-
+**Skip to the bottom for OBS Setup*
 
 Used to allow the LinusTechTips team to stream to both YouTube and Twitch at the same time :D
 
@@ -85,3 +85,12 @@ pre-setup: Set your network card's IP - we are using 10.20.0.70 as the static IP
 	1. Streaming to both YouTube and Twitch: `rtmp://10.20.0.70:1935/transcode-yt-twitch`
 	1. Streaming to just YouTube: `rtmp://10.20.0.70:1935/transcode-yt`
 	1. (Streaming to both YouTube and Floatplane: `rtmp://10.20.0.70:1935/transcode-yt-fp` (***NOT YET WORKING***))
+	
+	
+	
+	
+
+OBS Setup
+-------------------
+
+
